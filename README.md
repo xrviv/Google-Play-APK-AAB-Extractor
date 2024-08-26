@@ -10,6 +10,7 @@ This is a bash script meant to be run on an Ubuntu terminal.
 - adb
 - bundletool
 - java 17
+- aapt
 
 #### Ensure you have a phone connected (Tested with Samsung A11)
 
